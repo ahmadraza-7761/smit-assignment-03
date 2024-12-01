@@ -1,0 +1,39 @@
+h1{
+color: chocolate;
+background-color: aquamarine;
+}
+#forms{
+    align-content: center;
+align-items: center;
+color: black;
+background-color: bisque;
+}
+#fms{
+    align-items: center;
+}
+p{
+    background-color: rgb(235, 35, 0);
+    font-size: 20px;
+    text-align: center;
+}
+ul li{
+color: blue;
+background-color: antiquewhite;
+}
+ol li{
+    color: blue;
+    background-color: antiquewhite;
+}
+form input{
+    width: 50%;
+    margin: 10px;
+}
+.input{
+    width: 150px;
+}
+tr td{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
